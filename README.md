@@ -1,1 +1,1 @@
-# Deep-Neural-Networks-for-Hot-Spots-prediction-
+# Deep Neural Networks for Hot Spots prediction
